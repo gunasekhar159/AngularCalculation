@@ -165,8 +165,8 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 export class AppModule { }
 ```
 
-## OUTPUT:
-![OUTPUT](G1.JPG)
+### OUTPUT:
+![OUTPUT](G1.jpg)
 
 
 ## Result:
