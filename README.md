@@ -32,6 +32,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 
 ### app.component.html:
 <body>
@@ -162,6 +163,7 @@ import { RectangleComponent } from './rectangle/rectangle.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+```
 
 ## OUTPUT:
 ![OUTPUT](G1.JPG)
