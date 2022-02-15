@@ -168,7 +168,7 @@ export class AppModule { }
 ## OUTPUT:
 ![OUTPUT](G1.JPG)
 
-### Home Page:
-
 
 ## Result:
+
+thus the code runs successfully
